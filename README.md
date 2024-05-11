@@ -95,7 +95,7 @@ As entidades guardam todas as informações a respeito do usuário e de suas res
     - you_know_the_monthly_spending `binary` (O usuário sabe quanto ele vai gastar por mês com o cachorro?)
     - if_yes_how_much `integer` (Se ele sabe, quanto?)
 
-  - **Sem Cão** (`null_forms`): Motivo pelo qual o usuário não tem e não deseja ter um cão.
+  - **Sem Cão** (`dont_want`): Motivo pelo qual o usuário não tem e não deseja ter um cão.
     - why_not `text` (Por que não ter um cachorro?)
 
     - **Contato** (`contact_informations`): Dados para contato futuro com o usuário.
